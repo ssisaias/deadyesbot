@@ -1,0 +1,18 @@
+{
+    "name": "deadyesBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "f460bb40-7e59-11e9-a327-b96dfb366ab3",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\isaias.silva\\source\\repos\\skypeBot\\dead-yes-bot\\deadyesBot.bot",
+    "overrides": null
+}
